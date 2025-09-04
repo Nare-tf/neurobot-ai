@@ -1,0 +1,185 @@
+{
+  "conversation_history": [
+    {
+      "text": "good",
+      "mood": "happy",
+      "confidence": 0.3333333333333333,
+      "timestamp": "2025-09-04T18:58:41.363510",
+      "sentiment": {
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      }
+    },
+    {
+      "text": "no this doesnt but everythings good",
+      "mood": "happy",
+      "confidence": 0.3333333333333333,
+      "timestamp": "2025-09-04T18:59:07.295151",
+      "sentiment": {
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      }
+    },
+    {
+      "text": "and",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T18:59:34.072919",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T18:59:35.082155",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "so?",
+      "mood": "focused",
+      "confidence": 0.8224749565124512,
+      "timestamp": "2025-09-04T18:59:42.641967",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "water",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T19:00:10.110414",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "ig",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T19:00:33.360798",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "what",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T19:00:39.598595",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "hmm",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T19:00:44.009309",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "focus",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T19:00:51.670758",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "focused",
+      "mood": "focused",
+      "confidence": 0.3333333333333333,
+      "timestamp": "2025-09-04T19:00:57.472729",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T19:01:30.582199",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "sadness is often disheartenning.",
+      "mood": "sad",
+      "confidence": 0.9854933619499207,
+      "timestamp": "2025-09-04T19:01:49.485523",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "yup",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T19:02:20.917057",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "help me with stress",
+      "mood": "stressed",
+      "confidence": 0.3333333333333333,
+      "timestamp": "2025-09-04T19:03:27.798628",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "yes",
+      "mood": null,
+      "confidence": 0.0,
+      "timestamp": "2025-09-04T19:04:02.230976",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    },
+    {
+      "text": "anxiety should be fixed, no?",
+      "mood": "anxious",
+      "confidence": 0.9201178550720215,
+      "timestamp": "2025-09-04T19:04:15.215075",
+      "sentiment": {
+        "polarity": 0.1,
+        "subjectivity": 0.2
+      }
+    },
+    {
+      "text": "it helps, yes",
+      "mood": "happy",
+      "confidence": 0.6652162075042725,
+      "timestamp": "2025-09-04T19:04:46.097359",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    }
+  ],
+  "timestamp": "2025-09-04T19:05:21.422118"
+}

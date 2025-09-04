@@ -1,0 +1,56 @@
+{
+  "user_preferences": {},
+  "suggestion_history": [
+    {
+      "mood": "happy",
+      "suggestion": "love this energy! what's got you feeling good?",
+      "context": [],
+      "timestamp": "2025-09-04T18:58:41.363815"
+    },
+    {
+      "mood": "happy",
+      "suggestion": "happiness is contagious - maybe share this vibe with someone?",
+      "context": [
+        "similar_to_past"
+      ],
+      "timestamp": "2025-09-04T18:59:07.304613"
+    },
+    {
+      "mood": "focused",
+      "suggestion": "yo you're dialed in rn! perfect time for your hardest task",
+      "context": [],
+      "timestamp": "2025-09-04T18:59:42.644410"
+    },
+    {
+      "mood": "focused",
+      "suggestion": "I remember you dealing with this before, so you're sharp af right now. what's the most important thing you can do?",
+      "context": [],
+      "timestamp": "2025-09-04T19:00:57.475151"
+    },
+    {
+      "mood": "sad",
+      "suggestion": "sadness passes easier when you don't fight it. can you be gentle with yourself rn?",
+      "context": [],
+      "timestamp": "2025-09-04T19:01:49.487551"
+    },
+    {
+      "mood": "stressed",
+      "suggestion": "break whatever's stressing you into like 3 smaller steps. just tackle the first one today",
+      "context": [],
+      "timestamp": "2025-09-04T19:03:27.801197"
+    },
+    {
+      "mood": "anxious",
+      "suggestion": "anxiety is usually about stuff we can't control. what's one thing you CAN control rn?",
+      "context": [],
+      "timestamp": "2025-09-04T19:04:15.217668"
+    },
+    {
+      "mood": "happy",
+      "suggestion": "since this seems to be a thing for you lately, happiness is contagious - maybe share this vibe with someone?",
+      "context": [],
+      "timestamp": "2025-09-04T19:04:46.099831"
+    }
+  ],
+  "timestamp": "2025-09-04T19:05:21.447889"
+}
