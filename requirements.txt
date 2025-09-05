@@ -1,7 +1,11 @@
 transformers==4.35.0
 torch==2.1.0
+
+# Text analysis
 textblob==0.17.1
-scikit-learn==1.3.0
-numpy==1.24.3
-pandas==2.0.3
-nltk==3.8.1
+
+# Optional but recommended for better performance
+accelerate==0.24.1
+
+# Basic dependencies (should already be installed)
+numpy>=1.21.0
